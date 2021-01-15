@@ -1,0 +1,152 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 609px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.25rem;
+  margin: 20px 740px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 609px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 20px 609px 0 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 20px 609px 0 0;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 20px 609px 0 0;
+}
+
+.u-section-1 .u-text-6 {
+  margin: 20px 609px 0 0;
+}
+
+.u-section-1 .u-text-7 {
+  margin: 20px 609px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 540px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 409px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 409px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 409px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 409px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 409px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 409px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 320px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 189px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 189px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 189px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 189px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 189px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 189px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 140px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 9px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 9px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 9px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 9px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 9px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 9px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 0;
+  }
+}
